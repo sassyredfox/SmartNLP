@@ -187,6 +187,14 @@ The application is designed to be easily extensible:
 - Integrate additional AI model providers
 - Add new authentication methods
 
+
+
+## Basic UI 
+<img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/f0399da2-d0a8-479d-89fd-8ae2865cb849" />
+
+<img width="1909" height="889" alt="image" src="https://github.com/user-attachments/assets/80f5689e-6c37-4fd9-8b16-080b7627a0fb" />
+
+
 ---
 
 Built with ❤️ using modern web technologies and best practices.
