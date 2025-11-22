@@ -72,6 +72,12 @@ npm install
 npm run dev
 ```
 
+
+⚠️ Google Cloud Requirement
+
+To enable Translation, Speech-to-Text, and Text-to-Speech features, you must provide a valid Google Cloud Service Account JSON key and API credentials in your environment variables.
+Please ensure that your Google Cloud project has the necessary NLP services enabled.
+
 ## 🤖 AI Model Integration
 
 ### API Endpoints Your Model Should Provide
